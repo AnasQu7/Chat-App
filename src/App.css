@@ -1,0 +1,10 @@
+.left{
+  justify-content: flex-start;
+}
+.right{
+  justify-content: flex-start;
+}
+.chatbox::-webkit-scrollbar {
+  display: none;
+  visibility: hidden;
+}
