@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+<h1 align='center'>CHAT HAT</h1>
+<p align='center'>Chat hat is a messeging app were you connect with your friend and family together</p>
+<h3 align='center'>----------------------------------------------------</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# About Project
 
-## Available Scripts
+## Project Name :-Chat Hat
 
-In the project directory, you can run:
+<img src="https://drive.google.com/uc?export=view&id=19OBB3eNfsLetSUe0Ne_g7EJIEnXi6nAU"/>
 
-### `npm start`
+---
+### Indevidual project
+### I did this project within 4 days in our unit-4 construct week. 
+### I have also added some cool functionality in my product page where you can upload image in explore and apply filter with caption on image.
+### I have added a forum where you can ask your queries.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ ---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Tech Stack Used : -
+- Languages
+  - HTML
+  - CSS
+  - React
+  - Socket.io
+  - Chakra Ui
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h1>User Flow</h1>
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h2>-Starting</h2>
+<h4>Enter your name and submit</h4>
+<img src="https://drive.google.com/uc?export=view&id=1tDTVvAd9RgiZO0aibzXJ2x4XlsltaTqr"/>
+<h2>-Online Users</h2>
+<h4>You can see online users here</h4>
+<img src="https://drive.google.com/uc?export=view&id=1SUiSjo1caUN7r_yurKzYxB52axPobrUO"/>
+<h2>-Notification</h2>
+<h4>You also get notified we person join and leave along with messege tone.</h4>
+<img src="https://drive.google.com/uc?export=view&id=19OBB3eNfsLetSUe0Ne_g7EJIEnXi6nAU"/>
